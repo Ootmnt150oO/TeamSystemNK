@@ -1,0 +1,5 @@
+name: TeamSystemNK
+main: yuziouo.teams.Loader
+version: 1.6
+api: [1.0.0]
+author: yuziouo
